@@ -1,8 +1,8 @@
 ### Olá, Eu sou o Felipe Ribeiro (feliperb12) 👋
 
 - 🔭 Hoje estou voltado para full-stack
-- 🌱 Estudando JavaScript, MySQL, Angular, Java
-- 📫 Contate-me no e-mail: feliperibeiroaraujo3@gmail.com
+- 🌱 Estudando JavaScript, MySQL, Angular e Java
+- 📫 Contate-me no Whatsapp: (62)994429291
 - 😄 Pronome: ele/dele
 
 <div align="center">
