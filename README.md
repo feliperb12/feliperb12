@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Felipe Ribeiro (feliperb12) 👋
 
-- 🔭 Hoje estou voltado para full-stack
-- 🌱 Estudando JavaScript, MySQL, Angular e Java
+- 🔭 Hoje estou voltado para Back-End
+- 🌱 Estudando JavaScript, MySQL, Angular, Java, Spring Boot
 - 📫 Contate-me no Whatsapp: (62)994429291
 - 😄 Pronome: ele/dele
 
