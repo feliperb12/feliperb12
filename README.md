@@ -1,4 +1,5 @@
   
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Maia+Alvarez;I'm+17+years+old;I+from+Brasil,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
 ### Olá, Eu sou o Felipe Ribeiro (feliperb12) 👋
 
 - 🔭 Hoje estou voltado para Back-End
@@ -11,6 +12,12 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=feliperb12&show_icons=true&theme=dark&include_all_commits=true&count=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperb12&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
+  
+  
+  
+  
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="felipe-AG" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
@@ -23,9 +30,7 @@
 
 </div>
   
-  <div>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MthAlvarez&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+  
  
 <div> 
   <a href="https://www.instagram.com/feliipe__ribeiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
