@@ -6,7 +6,7 @@
 - 🔭 Desenvolvedor Back-End
 - 🌱 Estudando JavaScript, MySQL, Angular, Java, Spring Boot
 - 📫 Contate-me no Whatsapp: (62)994429291
-- 😄 Pronome: ele/dele
+- 😄 E-mail: feliperibeiroaraujo3@gmail.com
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=feliperb12&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="FELIPE RIBEIRO ARAUJO github stats" /> 
