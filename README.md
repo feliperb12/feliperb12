@@ -1,8 +1,8 @@
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Maia+Alvarez;I'm+17+years+old;I+from+Brasil,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
-### Olá, Eu sou o Felipe Ribeiro (feliperb12) 👋
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Felipe+Ribeiro+Araújo;I'm+21+years+old;I+from+Brasil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 🔭 Hoje estou voltado para Back-End
+
+- 🔭 Desenvolvedor Back-End
 - 🌱 Estudando JavaScript, MySQL, Angular, Java, Spring Boot
 - 📫 Contate-me no Whatsapp: (62)994429291
 - 😄 Pronome: ele/dele
